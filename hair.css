@@ -1,0 +1,95 @@
+
+
+body{
+   text-align: center;
+}
+
+
+.backG{
+    background-image: url(hero.jpg);
+    /* background-size: 100%;
+    padding-bottom: 500px;  */
+    background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
+   
+    
+}
+ .button1{
+   height:  50px;
+
+    background-color: green; 
+        border: none;
+        color: white;
+        padding: 20px 25px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 5px;   
+        margin-right: 15px;
+        outline:none;
+        text-align: center;
+ }
+
+ .button2{
+  height:  50px;
+  text-align: center;
+  background-color: none;
+        border: none;
+        color: white;
+        padding: 20px 25px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 5px;   
+        margin-right: 15px;
+        outline:none;
+        color: rgb(0, 0, 0);
+    background: rgb(0, 0, 0,0.1);
+}
+
+.serV{
+display: flex;
+
+}
+ 
+ .ftr{
+   margin-top: 50px;
+   background-color: black;
+   color: aliceblue;
+   padding: 2px;
+  text-align: end;
+  text-size-adjust: 1px;
+  font-size: 0.3cm;
+
+ }
+ a{
+
+   color: orange;
+   
+   
+   margin-right: 30px;
+ text-decoration: none;
+ }
+ p{
+
+   margin-right: 20%;
+   margin-left: 20%;
+
+ }
+.imgF{
+   float: left;
+   padding-top: 1%;
+   height: 2%;
+}
+
+.haircut,.neil,.bodyM{
+
+  border-style: groove;
+  border-color: antiquewhite;
+  border-radius: 5px;
+ padding: 20px;
+ margin-left: 20px;
+ margin-right: 20px;
+
+ 
+
+}
